@@ -7,12 +7,12 @@ A simple JavaScript class for interacting with the EmailOctopus API.
 Install the package using:
 
 ```bash
-meteor add hschmaiske:email-octopus-client
+meteor add hschmaiske:email-octopus
 ```
 
 ## Usage
 ```js
-import { EmailOctopusClient } from "your-username:email-octopus-client";
+import { EmailOctopusClient } from "hschmaiske:email-octopus";
 
 // Replace 'your-api-key' with your EmailOctopus API key
 const apiKey = "your-api-key";

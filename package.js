@@ -1,6 +1,6 @@
 Package.describe({
   name: "hschmaiske:email-octopus",
-  version: "0.0.1",
+  version: "0.0.2",
   summary: "Email Octopus API Wrapper for Meteor",
   git: "https://github.com/henriquealbert/email-octopus-client-meteor",
   documentation: "README.md",
