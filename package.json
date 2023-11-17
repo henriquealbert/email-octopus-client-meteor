@@ -1,0 +1,13 @@
+{
+  "name": "email-octopus",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Email Octopus Client for Meteor.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "main": "server-main.js",
+  "license": "MIT"
+}
