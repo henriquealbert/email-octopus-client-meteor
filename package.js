@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "node-fetch": "^3.3.2",
+  "node-fetch": "3.3.2",
 });
 
 Package.onUse(function (api) {
