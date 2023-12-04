@@ -12,7 +12,7 @@ meteor add hschmaiske:email-octopus
 
 ## Usage
 ```js
-import { EmailOctopusClient } from "hschmaiske:email-octopus";
+import { EmailOctopusClient } from "meteor/hschmaiske:email-octopus";
 
 // Replace 'your-api-key' with your EmailOctopus API key
 const apiKey = "your-api-key";
