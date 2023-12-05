@@ -1,13 +1,13 @@
 Package.describe({
   name: "hschmaiske:email-octopus",
-  version: "0.0.4",
+  version: "0.0.5",
   summary: "Email Octopus API Wrapper for Meteor",
   git: "https://github.com/henriquealbert/email-octopus-client-meteor",
   documentation: "README.md",
 });
 
 Npm.depends({
-  "node-fetch": "3.3.2",
+  "node-fetch": "2.7.0",
 });
 
 Package.onUse(function (api) {
